@@ -1,0 +1,7 @@
+# Ignore Microsoft Office temporary files
+~$*
+*.tmp
+*.bak
+*.wbk
+*.asd
+*.lnk
